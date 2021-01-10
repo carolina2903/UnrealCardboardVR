@@ -7,10 +7,6 @@
 		{
 			"Name": "GoogleVRHMD",
 			"Enabled": true
-		},
-		{
-			"Name": "LocationServicesAndroidImpl",
-			"Enabled": true
 		}
 	]
 }
